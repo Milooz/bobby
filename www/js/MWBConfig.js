@@ -7,7 +7,7 @@
 */
 scannerConfig = function(){
 	
-	alert('bob')
+	alert('bob');
     /* phonegap/cordova 3.* possible callback
     *  - here we have a straight forwards callback one that just alerts the value. When scannerConfig is called, it will set this callback as default and scanner.startScanner can be called without inline callbacks
     *    however users still have the option to not even user setCallback, and set a callback function directly passed as parameter to the scanner.startScanner()
