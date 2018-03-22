@@ -1,0 +1,26 @@
+{
+  "manateeworks-barcodescanner-v3": {
+    "source": {
+      "type": "registry",
+      "id": "manateeworks-barcodescanner-v3@~3.0.49"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-dialogs": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-dialogs"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": false,
+    "variables": {}
+  }
+}
