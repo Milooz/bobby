@@ -9,7 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <plugin name="manateeworks-barcodescanner-v3" spec="~3.0.49" />
     <engine name="browser" spec="~5.0.3" />
     <engine name="android" spec="~7.0.0" />
+    <plugin name="manateeworks-barcodescanner-v3" spec="~3.0.49" />
 </widget>
